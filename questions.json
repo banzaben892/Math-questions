@@ -1,0 +1,110 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "7 + 8 = ?",
+      "answer": 15,
+      "level": "facile",
+      "category": "addition",
+      "explanation": "7 + 8 = 15"
+    },
+    {
+      "id": 2,
+      "text": "15 - 6 = ?",
+      "answer": 9,
+      "level": "facile",
+      "category": "soustraction"
+    },
+    {
+      "id": 3,
+      "text": "9 × 3 = ?",
+      "answer": 27,
+      "level": "facile",
+      "category": "multiplication"
+    },
+    {
+      "id": 4,
+      "text": "24 ÷ 4 = ?",
+      "answer": 6,
+      "level": "facile",
+      "category": "division"
+    },
+    {
+      "id": 5,
+      "text": "12 + 13 = ?",
+      "answer": 25,
+      "level": "facile",
+      "category": "addition"
+    },
+    {
+      "id": 6,
+      "text": "30 - 14 = ?",
+      "answer": 16,
+      "level": "facile",
+      "category": "soustraction"
+    },
+    {
+      "id": 7,
+      "text": "6 × 7 = ?",
+      "answer": 42,
+      "level": "facile",
+      "category": "multiplication"
+    },
+    {
+      "id": 8,
+      "text": "45 ÷ 9 = ?",
+      "answer": 5,
+      "level": "facile",
+      "category": "division"
+    },
+    {
+      "id": 9,
+      "text": "(8 + 7) × 2 = ?",
+      "answer": 30,
+      "level": "moyen",
+      "category": "double_operation"
+    },
+    {
+      "id": 10,
+      "text": "25% de 80 = ?",
+      "answer": 20,
+      "level": "moyen",
+      "category": "pourcentage"
+    },
+    {
+      "id": 11,
+      "text": "3² + 4² = ?",
+      "answer": 25,
+      "level": "moyen",
+      "category": "puissance"
+    },
+    {
+      "id": 12,
+      "text": "√144 = ?",
+      "answer": 12,
+      "level": "moyen",
+      "category": "racine"
+    },
+    {
+      "id": 13,
+      "text": "Résoudre : (3x + 2)(x - 4) = 0",
+      "answer": "-0.67 ou 4",
+      "level": "difficile",
+      "category": "algèbre"
+    },
+    {
+      "id": 14,
+      "text": "Hypoténuse triangle 6cm × 8cm ?",
+      "answer": 10,
+      "level": "difficile",
+      "category": "géométrie"
+    },
+    {
+      "id": 15,
+      "text": "Suite : 5, 8, 11, 14, ?",
+      "answer": 17,
+      "level": "difficile",
+      "category": "logique"
+    }
+  ]
+    }
